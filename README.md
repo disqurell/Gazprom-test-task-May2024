@@ -21,7 +21,7 @@
 1. Реализовать сбор уникальных записей
 2. Случается, что под одиннаковым id присутствуют разные данные - собрать отдельно такие записи
 ```
-### [Решение](https://github.com/fjsecur1ty/)
+### [Решение](https://github.com/fjsecur1ty/Gazprom-test-task-May2024-/blob/main/gazpromtesttask/T-1/task_1.py)
 
 
 ## Задание 2
@@ -40,7 +40,7 @@ m = [{11, 3, 5}, {2, 17, 87, 32}, {4, 44}, {24, 11, 9, 7, 8}]
 
 написать решения в одну строку
 ```
-### [Решение](https://github.com/fjsecur1ty/)
+### [Решение](https://github.com/fjsecur1ty/Gazprom-test-task-May2024-/blob/main/gazpromtesttask/T-2/task_2.py)
 
 ## Задание 3
 ```python
@@ -55,14 +55,14 @@ b = [{'k1': 1, 'k2': 2, 'k3': 3}, {'k1': 4, 'k2': 5, 'k3': 6}]
 ```
 ### *написать решение в одну строку
 
-### [Решение](https://github.com/fjsecur1ty/)
+### [Решение](https://github.com/fjsecur1ty/Gazprom-test-task-May2024-/blob/main/gazpromtesttask/T-3/task_3.py)
 
 ## Задание 4
 ```
 Имеется папка с файлами
 Реализовать удаление файлов старше N дней
 ```
-### [Решение](https://github.com/fjsecur1ty/)
+### [Решение](https://github.com/fjsecur1ty/Gazprom-test-task-May2024-/blob/main/gazpromtesttask/T-4/task_4.py)
 
 ## Задание *5*\*
 ```
@@ -110,7 +110,7 @@ b = [{'k1': 1, 'k2': 2, 'k3': 3}, {'k1': 4, 'k2': 5, 'k3': 6}]
 стыковкарась
 ```
 
-### [Решение](https://github.com/fjsecur1ty/)
+### [Решение](https://github.com/fjsecur1ty/Gazprom-test-task-May2024-/blob/main/gazpromtesttask/T-5/task_5.py)
 
 ## Задание *6*\*
 ```
@@ -145,4 +145,4 @@ b = [{'k1': 1, 'k2': 2, 'k3': 3}, {'k1': 4, 'k2': 5, 'k3': 6}]
 	5. Полученный DataFrame обогатить доп. столбцом:
 		"load_dt" -> значение "сейчас"(датавремя)
 
-### [Решение](https://github.com/fjsecur1ty/)
+### [Решение](https://github.com/fjsecur1ty/Gazprom-test-task-May2024-/tree/main/gazpromtesttask/T-6)
